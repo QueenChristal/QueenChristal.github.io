@@ -5,7 +5,7 @@ const msgBtn = document.getElementById("msg-btn")
 
 let displayCss = `
  <video autoplay muted id="myVideo">
-  <source src="../videos/happyBirthday.mp4" type="video/mp4">
+  <source src="happyBirthday.mp4" type="video/mp4">
  </video>
  <style>
  body{
@@ -31,6 +31,6 @@ msgBtn.addEventListener("click", function(){
 })
 
 function playSound(){
-  let ding = new Audio('../music/happyBirthday.mp3')
+  let ding = new Audio('happyBirthday.mp3')
   ding.play()
 }
