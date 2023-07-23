@@ -11,12 +11,7 @@ let displayCss = `
  body{
    background-color: black;
    background-repeat: no-repeat;
-   background-position: top center;
-   position: absolute;
-  background-size: cover;
-  position: absolute;
-  overflow: hidden;
-  color: white;
+   background-position: top cencr:
  }
  #myVideo{
    height: 2000px;
