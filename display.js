@@ -19,8 +19,8 @@ let displayCss = `
   color: white;
  }
  #myVideo{
-   height: 1500px;
-   width: 400px;
+   height: 2000px;
+   width: 800px;
  }
  </style>
  `
